@@ -55,3 +55,11 @@ Este repositorio contiene el código fuente, la base de datos y el backend de CT
 │
 └── README.md                 # Información general del proyecto
 ```
+---
+
+© 2026 **CTC Digital** | Centro de Transferencia Canina - Metro CDMX  
+Desarrollado con ❤️ para modernizar la gestión de adopciones, donaciones y rescates de mascotas.
+
+---
+
+**<p align="center">Construido con 💻, ☕ y mucho amor por los animales 🐶🐱</p>**
