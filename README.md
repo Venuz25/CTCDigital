@@ -63,4 +63,4 @@ Desarrollado con ❤️ para modernizar la gestión de adopciones, donaciones y 
 
 ---
 
-**<p align="center">Construido con 💻, ☕ y mucho amor por los animales 🐶🐱</p>**
+**<p align="center">Construido con ☕ y mucho amor por los animales 🐶🐱</p>**
